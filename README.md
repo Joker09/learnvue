@@ -1,6 +1,6 @@
 # learnvue
 
-> 使用 vue + better-scroller 实现的轮播图组件
+> 使用 vue + better-scroll 实现的轮播图组件
 
 ## Build Setup
 
